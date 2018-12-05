@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/index.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/fault.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/pc.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Controllers/login_controller.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Views/Student/reportFault.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Controllers/technician_controller.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/user.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Controllers/student_controller.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/reports.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/lab.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/faultReport.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/year.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Views/Technician/modifyPCSpecs.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Views/login.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Views/Technician/SummaryReport.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/routes.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Views/menuTechnician.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/student.php</file>
+            <file>file:/D:/IDC30BT/FruityFixes_mvc/Models/technician.php</file>
+        </group>
+    </open-files>
+</project-private>
